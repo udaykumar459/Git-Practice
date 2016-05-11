@@ -5,4 +5,3 @@ git commit -m "first commit"
 git remote add origin https://github.com/udaykumar459/Git-Practice.git
 git push -u origin master
 
-this is branch commit
