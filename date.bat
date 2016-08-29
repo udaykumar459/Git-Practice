@@ -1,1 +1,1 @@
-date
+java -version
